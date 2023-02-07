@@ -1,4 +1,4 @@
-public class Derived1  extends Base{
+public class Derived  extends Base{
 
 
     public void Derived1Methode() {
